@@ -1,0 +1,34 @@
+{
+    "schema": "1.0",
+    "type": "whmcs-gateways",
+    "name": "sample-remote-input-gateway",
+    "license": "MIT",
+    "category": "gateway",
+    "description": {
+        "name": "Sample Remote Input Gateway Module",
+        "tagline": "Payment Gateway modules allow you to integrate payment solutions with the WHMCS platform.",
+        "long": "The sample files here demonstrate how we suggest a Merchant Gateway that uses a remotely hosted payment page should be created for WHMCS.",
+        "features": [
+            "Capture payment",
+            "Remote input",
+            "Remote update",
+            "Admin status message"
+        ]
+    },
+    "logo": {
+        "filename": "logo.png"
+    },
+    "support": {
+        "homepage": "https:\/\/www.whmcs.com\/", 
+        "learn_more": "https:\/\/www.whmcs.com\/tour", 
+        "email": "support@whmcs.com", 
+        "support_url": "https:\/\/support.whmcs.com\/",
+        "docs_url": "https:\/\/developers.whmcs.com\/payment-gateways\/remote-input-gateway\/"
+    },
+    "authors": [
+        {
+            "name": "WHMCS",
+            "homepage": "https:\/\/www.whmcs.com\/"
+        }
+    ]
+}

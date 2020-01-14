@@ -19,7 +19,7 @@ The sample files here demonstrate how we suggest a Merchant Gateway that uses
 a remotely hosted payment page should be created for WHMCS.
 
 For more information, please refer to the documentation at:
-https://developers.whmcs.com/payment-gateways/remote-input/
+https://developers.whmcs.com/payment-gateways/remote-input-gateway/
 
 ## Remote Input Module ##
 
